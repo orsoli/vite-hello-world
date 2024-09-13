@@ -1,6 +1,11 @@
 <script>
+// Import componets
+import AppTitle from './components/AppTitle.vue'
 
 export default{
+  components:{
+    AppTitle
+  },
 
   data(){
     return{
@@ -10,7 +15,8 @@ export default{
 </script>
 
 <template>
-
+  <!-- Call back AppTitle  -->
+  <AppTitle/>
 </template>
 
 <style scoped>
