@@ -1,5 +1,8 @@
-# Vue 3 + Vite
+### Description:
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+**Create a new project using Vite: use the slides to go through the various installation steps as seen in the lesson.**
+**Create and use an AppTitle component, which contains a title that says "My first app with Vite!"**
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+### Bonus:
+
+**Create a second component called AppHero, which displays a jumbotron**
